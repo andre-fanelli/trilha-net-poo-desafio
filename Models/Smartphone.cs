@@ -13,7 +13,6 @@ namespace DesafioPOO.Models
             Modelo = modelo;
             Imei = imei;
             Memoria = memoria;
-
         }
 
         public void Ligar()
